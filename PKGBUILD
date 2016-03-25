@@ -2,8 +2,8 @@
 # Maintainer: BlackEagle <ike.devolder@gmail.com>>
 
 pkgname=kodi-addon-adsp-freesurround
-_commit=13ebd5c
-pkgver=20160207.13ebd5c
+_commit=3cc9a7e
+pkgver=20160325.3cc9a7e
 pkgrel=1
 pkgdesc="FreeSurround AudioDSP add-on for Kodi"
 arch=('i686' 'x86_64')
